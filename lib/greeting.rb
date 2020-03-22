@@ -3,4 +3,4 @@ def greeting(name = "Bobby")
 end
 
 
-greeting("Sally")
+greeting
