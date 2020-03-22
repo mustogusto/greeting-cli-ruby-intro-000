@@ -1,7 +1,6 @@
-def greeting(name)
+def greeting("Bobby")
   puts "Hi #{name}.  It's nice to meet you."
+  name = gets.strip
 end
 
-greeting("Bobby")
-
-greeting("Sally")
+greeting(name)
