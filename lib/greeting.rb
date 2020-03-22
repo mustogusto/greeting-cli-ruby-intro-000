@@ -4,3 +4,4 @@ def greeting(name)
 end
 
 name = ["Bobby"]
+greeting("Bobby")
