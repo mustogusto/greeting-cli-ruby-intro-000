@@ -3,3 +3,5 @@ def greeting(name)
 end
 
 greeting("Bobby")
+
+greeting("Sally")
